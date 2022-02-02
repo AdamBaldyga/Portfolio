@@ -7,6 +7,10 @@ My name is Adam Baldyga. I deal with running a business and selling on a daily b
 # Tech skills
 # Certificates
 # Courses
+ * R.Podraza - Praktyczny kurs testowania oprogramowania(9h)
+ * T.Roshdy - ISTQB Foundation Level 2022 Complete Training(19h)
+ * K.Raczynski - MySQL tworzenie i zarządzanie bazami danych(6h)
+ * D.Skorniewski - SQL - język zapytań do bazy danych SQL Server(6.5h)
 # Books
  * R.Smilgin - Zawód tester
  * K.Jadczyk - Pasja testowania

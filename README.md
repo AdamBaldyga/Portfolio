@@ -8,6 +8,10 @@ My name is Adam Baldyga. I deal with running a business and selling on a daily b
 # Certificates
 # Courses
 # Books
+ * R.Smilgin - Zawód tester
+ * K.Jadczyk - Pasja testowania
+ * K.Zmitrowicz - Tester Oprogramowania
+ * A.Roman - Testowanie i jakość oprogramowania 
 # Groups on Facebook
 # Recommended blogs
 # Webinars

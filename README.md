@@ -1,7 +1,7 @@
 # Portfolio
 My Tester's Portfolio
 # About me
-My name is Adam Baldyga. I deal with running a business and selling on a daily basis.I graduated  the electrical technical school in Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
+My name is Adam Baldyga. I deal with running a business and selling on a daily basis. I graduated  the electrical technical school in Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
 # Tools
 # Tech skills
 # Certificates

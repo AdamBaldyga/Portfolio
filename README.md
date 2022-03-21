@@ -20,16 +20,15 @@ from personal studies and researches
  * R.Podraza - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) (9h)
  * T.Roshdy - [ISTQB Foundation Level 2022 Complete Training](https://www.udemy.com/course/foundation-level-training/) (19h)
  * D.Skorniewski - [SQL - język zapytań do bazy danych SQL Server](https://www.udemy.com/course/kurs-sql/) (6.5h)
-# Books
- * R.Smilgin - Zawód tester
- * K.Jadczyk - Pasja testowania
- * K.Zmitrowicz - Tester Oprogramowania
- * A.Roman - Testowanie i jakość oprogramowania 
-# Groups on Facebook
+# Technical Books read
+ * R.Smilgin - [Zawód tester](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
+ * K.Jadczyk - [Pasja testowania](https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm)
+ * K.Zmitrowicz - [Tester Oprogramowania](https://helion.pl/ksiazki/tester-oprogramowania-przygotowanie-do-egzaminu-z-testowania-oprogramowania-karolina-zmitrowicz,e_00c5.htm#format/e)
+# Groups for knowledge gathering
  * [Facebook - Testowanie Oprogramowania](https://pl-pl.facebook.com/groups/TestowanieOprogramowania/)
  * [Facebook - Testowanie oprogramowania - Wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
  * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
-# Recommended blogs
+# Blogs read
  * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
  * [bugfreeblog.com](https://bugfreeblog.com/)

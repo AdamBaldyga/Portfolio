@@ -5,7 +5,7 @@ My name is Adam Baldyga. I deal with running a business and selling on a daily b
 from personal studies and researches
 
 # Tools**
- * Testlink, Jira, Trello - Issue tracking and project management tool for developers
+ * [Testlink](https://bitnami.com/stack/testlink), [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
  * Postman -Testing tool for REST API
 
 # Tech skills

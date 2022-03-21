@@ -35,8 +35,8 @@ Facebook - Testowanie oprogramowania - wsparcie na starcie
 
 # Webinars
 # Workshops
- * Ifs&Whiles - Poznaj podstawy API HTTP (Postman)
- * Ifs&Whiles - Poznaj podstawy SQL(CREATE TABLE, SELECT, INSERT, TOP, AVG, SUM, WHERE)
+ * [Ifs&Whiles - Poznaj podstawy API HTTP (Postman)]https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http]
+ * [Ifs&Whiles - Poznaj podstawy SQL(CREATE TABLE, SELECT, INSERT, TOP, AVG, SUM, WHERE)](https://www.czyitjestdlamnie.pl/warsztaty-podstawy-sql)
 # My test case examples
 # My bug reports
 # My examples of diagrams and decision tables

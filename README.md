@@ -12,7 +12,7 @@ from personal studies and researches
 
 # Tech skills
 * Software testing
-* Creating test cases
+* Creating test cases, scenarios
 * Reporting bugs
 * SQL
 
@@ -30,8 +30,8 @@ from personal studies and researches
  * K.Zmitrowicz - [Tester Oprogramowania](https://helion.pl/ksiazki/tester-oprogramowania-przygotowanie-do-egzaminu-z-testowania-oprogramowania-karolina-zmitrowicz,e_00c5.htm#format/e)
 
 # Groups for knowledge gathering
- * [Facebook - Testowanie Oprogramowania](https://pl-pl.facebook.com/groups/TestowanieOprogramowania/)
- * [Facebook - Testowanie oprogramowania - Wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+ * [Testowanie Oprogramowania](https://pl-pl.facebook.com/groups/TestowanieOprogramowania/)
+ * [Testowanie oprogramowania - Wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
  * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
 
 # Blogs read

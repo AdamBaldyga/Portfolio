@@ -36,7 +36,9 @@ from personal studies and researches
  * [testerzy.pl](https://testerzy.pl/)
  * [testuj.pl](https://testuj.pl/blog/)
 
-# Webinars
+# Tutorials
+ * [Utest](https://www.utest.com/academy) - uTest Academy
+ * [W3Schools - SQL Tutorial(https://www.w3schools.com/sql/)
 # Workshops
  * [Ifs&Whiles - Poznaj podstawy API HTTP](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http)
  * [Ifs&Whiles - Poznaj podstawy SQL](https://www.czyitjestdlamnie.pl/warsztaty-podstawy-sql)

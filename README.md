@@ -8,6 +8,7 @@ from personal studies and researches
 # Tools
  * [Testlink](https://bitnami.com/stack/testlink), [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
  * [Postman](https://www.postman.com/) - Testing tool for REST API
+ * [Sharex](https://getsharex.com/), [PickPick](https://picpick.app/pl/) - Screen capture
 
 # Tech skills
 * Software testing
@@ -54,10 +55,10 @@ from personal studies and researches
  * [Ifs&Whiles - Poznaj podstawy SQL](https://www.czyitjestdlamnie.pl/warsztaty-podstawy-sql)
 
 # My Test Documentation
- *Bug Reports
- *Test Reports
- *Test Cases
- *Test Scenarios
+ * Bug Reports
+ * Test Reports
+ * Test Cases
+ * Test Scenarios
 
 # My examples of diagrams and decision tables
 # My projects

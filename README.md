@@ -6,7 +6,7 @@ from personal studies and researches
 
 # Tools
  * [Testlink](https://bitnami.com/stack/testlink), [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
- * [Postman](https://www.postman.com/) -Testing tool for REST API
+ * [Postman](https://www.postman.com/) - Testing tool for REST API
 
 # Tech skills
 * SQL

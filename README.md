@@ -26,12 +26,12 @@ My name is Adam Baldyga. I deal with running a business and selling on a daily b
 Facebook - Testowanie Oprogramowania
 Facebook - Testowanie oprogramowania - wsparcie na starcie 
 # Recommended blogs
-[pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-[remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-[bugfreeblog.com](https://bugfreeblog.com/)
-[guru99.com](https://www.guru99.com/)
-[testerzy.pl](https://testerzy.pl/)
-[testuj.pl](https://testuj.pl/blog/)
+ * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+ * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+ * [bugfreeblog.com](https://bugfreeblog.com/)
+ * [guru99.com](https://www.guru99.com/)
+ * [testerzy.pl](https://testerzy.pl/)
+ * [testuj.pl](https://testuj.pl/blog/)
 
 # Webinars
 # Workshops

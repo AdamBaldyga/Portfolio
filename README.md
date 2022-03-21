@@ -28,7 +28,7 @@ from personal studies and researches
 # Groups on Facebook
  * [Facebook - Testowanie Oprogramowania](https://pl-pl.facebook.com/groups/TestowanieOprogramowania/)
  * [Facebook - Testowanie oprogramowania - Wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
- * [ISTQB - egzaminy, pytania, testy]([https://www.facebook.com/groups/194288250951242/)
+ * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
 # Recommended blogs
  * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)

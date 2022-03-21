@@ -1,7 +1,10 @@
 # Portfolio
 My Tester's Portfolio
 # About me
-My name is Adam Baldyga. I deal with running a business and selling on a daily basis. I graduated  the electrical technical school in Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches*# Tools**
+My name is Adam Baldyga. I deal with running a business and selling on a daily basis. I graduated  the electrical technical school in Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience 
+from personal studies and researches
+
+# Tools**
  * Testlink, Jira, Trello - Issue tracking and project management tool for developers
  * Postman -Testing tool for REST API
 
@@ -23,8 +26,8 @@ My name is Adam Baldyga. I deal with running a business and selling on a daily b
  * K.Zmitrowicz - Tester Oprogramowania
  * A.Roman - Testowanie i jakość oprogramowania 
 # Groups on Facebook
-Facebook - Testowanie Oprogramowania
-Facebook - Testowanie oprogramowania - wsparcie na starcie 
+ * [Facebook - Testowanie Oprogramowania](https://pl-pl.facebook.com/groups/TestowanieOprogramowania/)
+ * [Facebook - Testowanie oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 # Recommended blogs
  * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
@@ -35,8 +38,8 @@ Facebook - Testowanie oprogramowania - wsparcie na starcie
 
 # Webinars
 # Workshops
- * [Ifs&Whiles - Poznaj podstawy API HTTP (Postman)]https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http]
- * [Ifs&Whiles - Poznaj podstawy SQL(CREATE TABLE, SELECT, INSERT, TOP, AVG, SUM, WHERE)](https://www.czyitjestdlamnie.pl/warsztaty-podstawy-sql)
+ * [Ifs&Whiles - Poznaj podstawy API HTTP](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http)
+ * [Ifs&Whiles - Poznaj podstawy SQL](https://www.czyitjestdlamnie.pl/warsztaty-podstawy-sql)
 # My test case examples
 # My bug reports
 # My examples of diagrams and decision tables

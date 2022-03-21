@@ -4,9 +4,9 @@ My Tester's Portfolio
 My name is Adam Baldyga. I deal with running a business and selling on a daily basis. I graduated  the electrical technical school in Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience 
 from personal studies and researches
 
-# Tools**
+# Tools*
  * [Testlink](https://bitnami.com/stack/testlink), [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
- * Postman -Testing tool for REST API
+ * [Postman](https://www.postman.com/) -Testing tool for REST API
 
 # Tech skills
 * SQL

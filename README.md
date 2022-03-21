@@ -10,10 +10,10 @@ from personal studies and researches
  * [Postman](https://www.postman.com/) - Testing tool for REST API
 
 # Tech skills
-* SQL
 * Software testing
 * Creating test cases
 * Reporting bugs
+* SQL
 
 # Certificates
 

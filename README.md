@@ -16,10 +16,10 @@ from personal studies and researches
 
 # Certificates
 # Courses
- * T.Roshdy - The Complete 2022 Software Testing Bootcamp(34h)
- * R.Podraza - Praktyczny kurs testowania oprogramowania(9h)
- * T.Roshdy - ISTQB Foundation Level 2022 Complete Training(19h)
- * D.Skorniewski - SQL - język zapytań do bazy danych SQL Server(6.5h)
+ * T.Roshdy - [The Complete 2022 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/) (34h)
+ * R.Podraza - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) (9h)
+ * T.Roshdy - [ISTQB Foundation Level 2022 Complete Training](https://www.udemy.com/course/foundation-level-training/) (19h)
+ *[D.Skorniewski - SQL - język zapytań do bazy danych SQL Server](https://www.udemy.com/course/kurs-sql/) (6.5h)
 # Books
  * R.Smilgin - Zawód tester
  * K.Jadczyk - Pasja testowania
@@ -36,9 +36,14 @@ from personal studies and researches
  * [testerzy.pl](https://testerzy.pl/)
  * [testuj.pl](https://testuj.pl/blog/)
 
+
+# Apps and job pages
+* [Utest](https://www.utest.com/academy) - Testing academy
+* [MrBuggy](http://mrbuggy.pl/) - Buggy application
+
 # Tutorials
- * [Utest](https://www.utest.com/academy) - Testing academy
  * [W3Schools](https://www.w3schools.com/sql/) - SQL Tutorial
+
 # Workshops
  * [Ifs&Whiles - Poznaj podstawy API HTTP](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http)
  * [Ifs&Whiles - Poznaj podstawy SQL](https://www.czyitjestdlamnie.pl/warsztaty-podstawy-sql)

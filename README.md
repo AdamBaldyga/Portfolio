@@ -19,7 +19,7 @@ from personal studies and researches
  * T.Roshdy - [The Complete 2022 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/) (34h)
  * R.Podraza - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) (9h)
  * T.Roshdy - [ISTQB Foundation Level 2022 Complete Training](https://www.udemy.com/course/foundation-level-training/) (19h)
- *[D.Skorniewski - SQL - język zapytań do bazy danych SQL Server](https://www.udemy.com/course/kurs-sql/) (6.5h)
+ * D.Skorniewski - [SQL - język zapytań do bazy danych SQL Server](https://www.udemy.com/course/kurs-sql/) (6.5h)
 # Books
  * R.Smilgin - Zawód tester
  * K.Jadczyk - Pasja testowania
@@ -27,7 +27,7 @@ from personal studies and researches
  * A.Roman - Testowanie i jakość oprogramowania 
 # Groups on Facebook
  * [Facebook - Testowanie Oprogramowania](https://pl-pl.facebook.com/groups/TestowanieOprogramowania/)
- * [Facebook - Testowanie oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+ * [Facebook - Testowanie oprogramowania - Wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 # Recommended blogs
  * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)

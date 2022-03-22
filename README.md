@@ -62,3 +62,12 @@ from personal studies and researches
 
 # My examples of diagrams and decision tables
 # My projects
+ * Group project - Junior Tester - App - GoPursue
+   * Trello/Jira
+ 
+ * Individual project - testing site ...com
+   * Report
+   * Test cases
+   * Test cases - regression testing
+   * Mind map
+   * Automated Postman tests

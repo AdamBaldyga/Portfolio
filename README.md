@@ -64,9 +64,8 @@ from personal studies and researches
 # My projects
  * Group project - Junior Tester - App - GoPursue
    * Trello/Jira
- 
- * Individual project - testing site ...com
-   * Report
+
+ * Individual project - testing site [Nike.com](https://www.nike.com/pl/)
    * Test cases
    * Test cases - regression testing
    * Mind map

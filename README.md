@@ -14,7 +14,7 @@ from personal studies and researches
 * Knowledge of software development processes
 * Preparation of test cases based on functional documentation and error reporting
 * Basics of MS-SQL databases 
-* Basic knowledge of JIRA, Trello and Testlink softwar
+* Basic knowledge of JIRA, Trello and Testlink software
 
 
 

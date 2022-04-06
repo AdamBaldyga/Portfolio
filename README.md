@@ -66,7 +66,8 @@ from personal studies and researches
    * Trello/Jira
 
  * Individual project - testing site [Nike.com](https://www.nike.com/pl/)
-   * Test cases
-   * Test cases - regression testing
-   * Mind map
+   * [Report](https://docs.google.com/document/d/1V4wXVDFnAzbodtMFi3RApmWW0PM_iULutztO10xc1G4/edit?usp=sharing) 
+   * [Test cases](https://docs.google.com/spreadsheets/d/1Jsu_nuOOz7R1QgDWkhtI_CMX1GAcwClegIRhimbiafw/edit?usp=sharing)
+   * [Test cases - regression testing](https://docs.google.com/spreadsheets/d/1LCofIcJ3Sb8Tj8kA7TQfqIQTQkaqUsHcL4HPFNmBAUk/edit?usp=sharing)
+   * [Mind map](https://drive.google.com/file/d/1ah5VG4-q1XtB1BOUO8yK2I7TzT8bwEqc/view?usp=sharing)
    * Automated Postman tests

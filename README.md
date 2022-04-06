@@ -19,6 +19,7 @@ from personal studies and researches
 
 
 # Courses
+   Udemy:
  * T.Roshdy - [The Complete 2022 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/) (34h)
  * R.Podraza - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) (9h)
  * T.Roshdy - [ISTQB Foundation Level 2022 Complete Training](https://www.udemy.com/course/foundation-level-training/) (19h)

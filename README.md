@@ -2,7 +2,7 @@
 My Tester's Portfolio
 
 # About me
-My name is Adam Baldyga. I deal with running a business and selling on a daily basis. I graduated  the electrical technical school in Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience 
+My name is Adam Baldyga. I deal with running a business and selling on a daily basis. I graduated  the electrical technical school in Poland. I want to change my life so far, recently I have been passionate about topics related to the IT industry. I have been learning software testing for over half a year. My goal is to develop testing knowlage and technical skills  and become a manual tester. On this site I would like to share my all gained experience 
 from personal studies and researches
 
 # Tools
@@ -11,12 +11,12 @@ from personal studies and researches
  * [Sharex](https://getsharex.com/), [PickPick](https://picpick.app/pl/) - Screen capture
 
 # Tech skills
-* Software testing
-* Creating test cases, scenarios
-* Reporting bugs
-* SQL
+* Knowledge of software development processes
+* Preparation of test cases based on functional documentation and error reporting
+* Basics of MS-SQL databases 
+* Basic knowledge of JIRA, Trello and Testlink softwar
 
-# Certificates
+
 
 # Courses
  * T.Roshdy - [The Complete 2022 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/) (34h)
@@ -54,13 +54,7 @@ from personal studies and researches
  * [Ifs&Whiles - Poznaj podstawy API HTTP](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http)
  * [Ifs&Whiles - Poznaj podstawy SQL](https://www.czyitjestdlamnie.pl/warsztaty-podstawy-sql)
 
-# My Test Documentation
- * Bug Reports
- * Test Reports
- * Test Cases
- * Test Scenarios
 
-# My examples of diagrams and decision tables
 # My projects
  * Group project - Junior Tester - App - GoPursue
    * Trello/Jira
@@ -70,4 +64,4 @@ from personal studies and researches
    * [Test cases](https://docs.google.com/spreadsheets/d/1Jsu_nuOOz7R1QgDWkhtI_CMX1GAcwClegIRhimbiafw/edit?usp=sharing)
    * [Test cases - regression testing](https://docs.google.com/spreadsheets/d/1LCofIcJ3Sb8Tj8kA7TQfqIQTQkaqUsHcL4HPFNmBAUk/edit?usp=sharing)
    * [Mind map](https://drive.google.com/file/d/1ah5VG4-q1XtB1BOUO8yK2I7TzT8bwEqc/view?usp=sharing)
-   * Automated Postman tests
+   

@@ -17,10 +17,9 @@ from personal studies and researches
     * [Mind map](https://drive.google.com/file/d/1ah5VG4-q1XtB1BOUO8yK2I7TzT8bwEqc/view?usp=sharing)
 
 
- *   Group project - Junior Tester - Testing application GoPursue                  
+ *   Group project - Junior Tester - Testing application GoPursue - an extensive time planner                  
      12.2021 - Today
-   
-     * Mobile application - an extensive time planner
+
      * Communication with the team
      * Functional tests. exploratory
      * Non-functional, usability and reliability tests

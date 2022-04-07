@@ -3,7 +3,7 @@
 
 # About me
 My name is Adam Baldyga. I deal with running a business and selling on a daily basis. I graduated  the electrical technical school in Poland. I want to change my life so far, recently I have been passionate about topics related to the IT industry. I have been learning software testing for over half a year. My goal is to develop testing knowlage and technical skills  and become a manual tester. On this site I would like to share my all gained experience 
-from personal studies and researches
+from personal studies and researches.
 
 # My projects
 

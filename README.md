@@ -1,19 +1,31 @@
-# Portfolio
-My Tester's Portfolio
+# My Tester's Portfolio
+
 
 # About me
 My name is Adam Baldyga. I deal with running a business and selling on a daily basis. I graduated  the electrical technical school in Poland. I want to change my life so far, recently I have been passionate about topics related to the IT industry. I have been learning software testing for over half a year. My goal is to develop testing knowlage and technical skills  and become a manual tester. On this site I would like to share my all gained experience 
 from personal studies and researches
 
 # My projects
- * Group project - Junior Tester - App - GoPursue
-   * Trello/Jira
 
- * Individual project - testing site [Nike.com](https://www.nike.com/pl/)
-   * [Report](https://docs.google.com/document/d/1V4wXVDFnAzbodtMFi3RApmWW0PM_iULutztO10xc1G4/edit?usp=sharing) 
-   * [Test cases](https://docs.google.com/spreadsheets/d/1Jsu_nuOOz7R1QgDWkhtI_CMX1GAcwClegIRhimbiafw/edit?usp=sharing)
-   * [Test cases - regression testing](https://docs.google.com/spreadsheets/d/1LCofIcJ3Sb8Tj8kA7TQfqIQTQkaqUsHcL4HPFNmBAUk/edit?usp=sharing)
-   * [Mind map](https://drive.google.com/file/d/1ah5VG4-q1XtB1BOUO8yK2I7TzT8bwEqc/view?usp=sharing)
+
+ *  Individual project - Testing site [Nike.com](https://www.nike.com/pl/)              
+    03.2021 - 03.2021
+
+    * [Report](https://docs.google.com/document/d/1V4wXVDFnAzbodtMFi3RApmWW0PM_iULutztO10xc1G4/edit?usp=sharing) 
+    * [Test cases](https://docs.google.com/spreadsheets/d/1Jsu_nuOOz7R1QgDWkhtI_CMX1GAcwClegIRhimbiafw/edit?usp=sharing)
+    * [Test cases - regression testing](https://docs.google.com/spreadsheets/d/1LCofIcJ3Sb8Tj8kA7TQfqIQTQkaqUsHcL4HPFNmBAUk/edit?usp=sharing)
+    * [Mind map](https://drive.google.com/file/d/1ah5VG4-q1XtB1BOUO8yK2I7TzT8bwEqc/view?usp=sharing)
+
+
+ *   Group project - Junior Tester - Testing application GoPursue                  
+     12.2021 - Today
+   
+     * Mobile application - an extensive time planner
+     * Communication with the team
+     * Functional tests. exploratory
+     * Non-functional, usability and reliability tests
+     * Error reporting in JIRA and Trello
+
 
 # Tools
  * [Testlink](https://bitnami.com/stack/testlink), [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/) - Issue tracking and project management tool for developers

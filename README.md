@@ -18,7 +18,7 @@ from personal studies and researches
 
 
  *   Group project - Junior Tester - Testing application GoPursue - an extensive time planner                  
-     12.2021 - Today
+     12.2021 - Present
 
      * Communication with the team
      * Functional tests. exploratory

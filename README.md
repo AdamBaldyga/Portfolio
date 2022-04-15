@@ -21,8 +21,8 @@ from personal studies and researches.
      12.2021 - Present
 
      * Communication with the team
-     * Functional tests. exploratory
-     * Non-functional, usability and reliability tests
+     * Functional tests: exploratory, regression, retest
+     * Non-functional: usability and reliability tests
      * Error reporting in JIRA and Trello
 
 
